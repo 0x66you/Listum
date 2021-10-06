@@ -50,6 +50,6 @@ new Vue({
         })
 ```
 
-### License
+## License
 
 [MIT License](https://oss.ninja/mit/0x66you) © Yeh,Chun-Chen
