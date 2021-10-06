@@ -15,7 +15,7 @@ Not into programming? Great! It's still an excellent productivity tool.
 * Javascript
 * bootstrap 4
 
-### Vue Instance(overall structure)
+### Vue Instance (preview)
 ```js
 new Vue({
             el:'#app',
