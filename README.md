@@ -1,4 +1,5 @@
-# List'um(vue_framework)
-A simple yet elegant to-do list intended to demonstrate how vue.js works
-## Live demo
-[https://0x66you.github.io/Listum-vue.js/index.html](https://0x66you.github.io/Listum-vue.js/index.html)
+<h2 align="center">
+  📆 Hard to KEEP TRACK of work? Try 📎 <a href="https://0x66you.github.io/Listum-vue.js/index.html">List'um</a>&nbsp;(Live demo)
+</h2>
+
+
