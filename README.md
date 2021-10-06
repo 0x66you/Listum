@@ -2,7 +2,7 @@
   📆 Hard to KEEP TRACK of work? Try 📎 <a href="https://0x66you.github.io/Listum-vue.js/index.html">List'um</a>&nbsp;(Live demo)
 </h2>
 
-<p align="center"><img src="https://i.postimg.cc/HLvwzHCf/LIST-UM-2.png" width="860" alt="workerize"></p>
+<p align="center"><img src="https://i.postimg.cc/P5rDV4kg/LIST-UM-4.png" width="860" alt="workerize"></p>
 
 ## About project
 A simple yet elegant to-do list demonstrating how vue.js works.<br/>
