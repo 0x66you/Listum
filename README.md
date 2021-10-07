@@ -13,7 +13,7 @@ Not into programming? Great! It's still an excellent productivity tool.
 ## Prerequisites
 * Html Css (duh!)
 * Javascript
-* bootstrap v4/v5
+* bootstrap v4/ v5
 
 ### Vue Instance (preview)
 ```js
