@@ -11,9 +11,9 @@ Learn to build user interfaces with Vue, make THIS your first project.<br/>
 Not into programming? Great! It's still an excellent productivity tool.
 
 ## Prerequisites
-* Html Css (duh)
+* Html Css (duh!)
 * Javascript
-* bootstrap 4
+* bootstrap v4/v5
 
 ### Vue Instance (preview)
 ```js
