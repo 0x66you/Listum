@@ -5,7 +5,7 @@
 <p align="center"><img src="https://i.postimg.cc/P5rDV4kg/LIST-UM-4.png" width="860" alt="workerize"></p>
 
 ## About project
-A simple yet elegant to-do list demonstrating how vue.js works.<br/>
+A simple yet elegant to-do list that saves your notes in localStorage.<br/>
 Feel free to download source code and customize settings to your liking.<br/>
 Learn to build user interfaces with Vue, make THIS your first project.<br/>
 Not into programming? Great! It's still an excellent productivity tool.
