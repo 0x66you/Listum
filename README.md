@@ -14,6 +14,7 @@ Not into programming? Great! It's still an excellent productivity tool.
 * Html Css (duh!)
 * Javascript
 * bootstrap v4/ v5.1
+* vue.js 
 
 ### Vue Instance (preview)
 ```js
