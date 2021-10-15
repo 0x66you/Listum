@@ -1,5 +1,5 @@
 <h2 align="center">
-  📆 Hard to KEEP TRACK of work? Try 📎 <a href="https://0x66you.github.io/Listum-vue.js/index.html">List'um</a>&nbsp;(Live demo)
+  📆 Hard to KEEP TRACK of work? Try 📎 <a href="https://0x66you.github.io/Listum/index.html">List'um</a>&nbsp;(Live demo)
 </h2>
 
 <p align="center"><img src="https://i.postimg.cc/P5rDV4kg/LIST-UM-4.png" width="860" alt="workerize"></p>
